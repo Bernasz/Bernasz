@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bernasz
-- 👀 I’m interested in Java, HTML, CSS
-- 🌱 I’m currently learning Typescript, JavaScript
+- 👀 I’m interested in Java,SpringBoot
+- 🌱 I’m currently learning Java, SpringBoot
 - 💞️ I’m looking to collaborate on Back-End Dev
 - 📫 How to reach me @not_bernas instagram
 - 😄 Pronouns: 
